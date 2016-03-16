@@ -14,9 +14,9 @@ Here is a `code snippet`
 
 [This is a link](http://google.com)
 
-*list item
-*list item
-*list item
+* list item
+* list item
+* list item
 
 1. numbered item
 2. numbered item
