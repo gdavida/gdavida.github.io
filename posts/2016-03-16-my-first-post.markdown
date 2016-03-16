@@ -17,6 +17,14 @@ Here is a `code snippet`
 - list item
 - list item
 - list item
+- list item
+- list item
+
+* list item
+* list item
+* list item
+* list item
+* list item
 
 1. numbered item
 2. numbered item
